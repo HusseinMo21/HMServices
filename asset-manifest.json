@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/HMServices/static/css/main.541f35a5.css",
-    "main.js": "/HMServices/static/js/main.52d3f415.js",
+    "main.css": "/HMServices/static/css/main.9ed47d9a.css",
+    "main.js": "/HMServices/static/js/main.9625d0d9.js",
     "static/js/633.34c38b62.chunk.js": "/HMServices/static/js/633.34c38b62.chunk.js",
     "static/media/dancevideo1.mp4": "/HMServices/static/media/dancevideo1.44b8c16c3eeca337d056.mp4",
     "static/media/FBG.mp4": "/HMServices/static/media/FBG.942e71b306ac2a7f20c9.mp4",
@@ -47,12 +47,12 @@
     "static/media/fa-v4compatibility.woff2": "/HMServices/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
     "static/media/JavaSc.webp": "/HMServices/static/media/JavaSc.a818fde88a0436303b93.webp",
     "index.html": "/HMServices/index.html",
-    "main.541f35a5.css.map": "/HMServices/static/css/main.541f35a5.css.map",
-    "main.52d3f415.js.map": "/HMServices/static/js/main.52d3f415.js.map",
+    "main.9ed47d9a.css.map": "/HMServices/static/css/main.9ed47d9a.css.map",
+    "main.9625d0d9.js.map": "/HMServices/static/js/main.9625d0d9.js.map",
     "633.34c38b62.chunk.js.map": "/HMServices/static/js/633.34c38b62.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.541f35a5.css",
-    "static/js/main.52d3f415.js"
+    "static/css/main.9ed47d9a.css",
+    "static/js/main.9625d0d9.js"
   ]
 }
